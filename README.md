@@ -1,2 +1,3 @@
 # project3_group_61
-aassignment for the IOS project3
+Assignment for the IOS project3
+This is a game for choose same figure
