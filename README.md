@@ -2,10 +2,10 @@
 aassignment for the IOS project3
 
 #Group member
-*12167375 zhirong chen
-*12721662 qiyuan di
-*12518650 kailun wu
-*12509939 yunpeng huo
+* 12167375 zhirong chen
+* 12721662 qiyuan di
+* 12518650 kailun wu
+* 12509939 yunpeng huo
 
 
 #Game Instruction
